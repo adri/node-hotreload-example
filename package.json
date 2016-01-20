@@ -1,0 +1,17 @@
+{
+  "name": "node-hotreload-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Philipp <mail@adrian-philipp.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.4.2",
+    "express": "^4.13.3",
+    "level": "^1.4.0",
+    "level-promisify": "^2.0.1"
+  }
+}
