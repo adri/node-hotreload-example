@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index hotreload",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Adrian Philipp <mail@adrian-philipp.com>",
